@@ -4,10 +4,11 @@ Script to plot data from a CSV file using the matplotlib library
 
 ## Example
 ```csv
--- data.csv
-Luxembourg 42
-Germany 112
-France 392
++--- data.csv ---+
+| Luxembourg 42  |
+| Germany 112    |
+| France 392     |
++----------------|
 ```
 
 ```bash
