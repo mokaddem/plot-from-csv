@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
 
-from os.path import join as pathjoin
-import json
 import argparse
 import matplotlib
-import time
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.image as image
-from datetime import datetime, date
 import numpy as np
 import csv
 
