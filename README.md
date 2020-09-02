@@ -8,7 +8,7 @@ Script to plot data from a CSV file using the matplotlib library
 | Luxembourg 42  |
 | Germany 112    |
 | France 392     |
-+----------------|
++----------------+
 ```
 
 ```bash
