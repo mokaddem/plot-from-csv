@@ -15,6 +15,11 @@ Script to plot data from a CSV file using the matplotlib library
 ./plot.py data.csv --title 'Country with numbers' --xlabel 'A random amount'
 ```
 
+Will produce:
+
+<img src="doc/example.png" alt="Chart example" height="360">
+
+
 ## Usage
 
 ```
