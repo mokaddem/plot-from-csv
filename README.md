@@ -2,6 +2,20 @@
 
 Script to plot data from a CSV file using the matplotlib library
 
+## Example
+```csv
+-- data.csv
+Luxembourg 42
+Germany 112
+France 392
+```
+
+```bash
+./plot.py data.csv --title 'Country with numbers' --xlabel 'A random amount'
+```
+
+## Usage
+
 ```
 usage: plot.py [-h] [--delimiter DELIMITER] [--quotechar QUOTECHAR]
                [--title TITLE] [--xlabel XLABEL] [--logopath LOGOPATH]
